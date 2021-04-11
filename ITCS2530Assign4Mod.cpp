@@ -1,6 +1,5 @@
 // ITCS2530Assign4Mod.cpp //
 
-
 #include <iostream>
 #include <fstream>
 #include <string>
